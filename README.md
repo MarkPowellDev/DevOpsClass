@@ -1,1 +1,3 @@
 # DevOpsClass
+
+Notes on DevOpsClass
